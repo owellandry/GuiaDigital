@@ -1,0 +1,67 @@
+[
+    {
+        "id": "c6c8f79c-b3be-4b5d-bb4b-2db3c8e09b3a",
+        "Nombre": "Ergonomic Concrete Shirt",
+        "logoNegocio": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/507.jpg",
+        "DireccionNegocio": {
+            "Ciudad": "South City",
+            "Estado": "Southland",
+            "CodigoPostal": "12345",
+            "DireccionCompleta": "123 Main St, South City, Southland, 12345"
+        },
+        "Contacto": {
+            "PaginaWeb": "https://example.com",
+            "Telefono": "+1234567890",
+            "WhatsApp": "+1234567891"
+        },
+        "AltitidLongitud": {
+            "Latitud": "81.1012",
+            "Longitud": "-43.5311"
+        },
+        "RedesSociales": {
+            "Facebook": "https://facebook.com/example",
+            "Instagram": "https://instagram.com/example",
+            "TikTok": "https://tiktok.com/@example"
+        },
+        "Promociones": {
+            "Activo": false,
+            "Detalles": null
+        }
+    },
+    {
+        "id": "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6",
+        "Nombre": "Refined Cotton Bike",
+        "logoNegocio": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/483.jpg",
+        "DireccionNegocio": {
+            "Ciudad": "East Town",
+            "Estado": "Eastland",
+            "CodigoPostal": "67890",
+            "DireccionCompleta": "456 Elm St, East Town, Eastland, 67890"
+        },
+        "Contacto": {
+            "PaginaWeb": "https://example.com/bike",
+            "Telefono": "+0987654321",
+            "WhatsApp": "+0987654322"
+        },
+        "AltitidLongitud": {
+            "Latitud": "-4.3483",
+            "Longitud": "101.2591"
+        },
+        "RedesSociales": {
+            "Facebook": "https://facebook.com/bikeexample",
+            "Instagram": "https://instagram.com/bikeexample",
+            "TikTok": "https://tiktok.com/@bikeexample"
+        },
+        "Promociones": {
+            "Activo": true,
+            "Detalles": [
+                {
+                    "FechaInicial": "2043-03-18T13:44:17.040Z",
+                    "FechaFinal": "2043-03-28T13:44:17.040Z",
+                    "BannerPromocion": "https://BannerPromocion/banner",
+                    "Descripcion": "20% de descuento en la compra de dos o más camisetas"
+                }
+            ]
+        }
+    }
+]
